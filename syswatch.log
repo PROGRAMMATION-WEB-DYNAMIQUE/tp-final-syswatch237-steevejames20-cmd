@@ -1,0 +1,7 @@
+[2026-04-22 20:08:28] Client connected Some(127.0.0.1:62322)
+[2026-04-22 20:08:38] Command help
+[2026-04-22 20:08:44] Command cpu
+[2026-04-22 20:08:49] Command mem
+[2026-04-22 20:08:53] Command ps
+[2026-04-22 20:08:59] Command all
+[2026-04-22 20:09:02] Command quit
